@@ -98,7 +98,6 @@ with st.sidebar:
     ''')
     st.write('Feito por [Bruno F.](https://github.com/Brunof-Sicoob) 💚')
 
-st.image("sicoob-logo-6.png")
 st.title("Converse com o seu :red[Arquivo PDF] - :green[LLAMA 3.1] 🦙")
 
 if "chat_history" not in st.session_state:
